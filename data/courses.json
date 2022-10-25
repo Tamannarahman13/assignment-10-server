@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Basic Computer ",
+        "fee": "",
+        "description": "",
+        "img": "https://www.coursesxpert.com/wp-content/uploads/2019/08/Basic-Computer-Courses.jpg",
+        "duration": "3 Months",
+        "eligibility": "After 10th Pass"
+    },
+    {
+        "id": "2",
+        "name": "Web Designing ",
+        "fee": "",
+        "description": "",
+        "img": "https://5.imimg.com/data5/MZ/WK/LZ/SELLER-75185845/web-designing-courses-500x500.jpg",
+        "duration": "4 Months to 1 Year",
+        "eligibility": "After 12th Pass"
+    },
+    {
+        "id": "3",
+        "name": "Digital Marketing ",
+        "fee": "",
+        "description": "",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
+        "duration": "1 to 12 Months",
+        "eligibility": "After Graduation"
+    },
+    {
+        "id": "4",
+        "name": "Data Entry",
+        "fee": "",
+        "description": "",
+        "img": "https://cdn-dhnfj.nitrocdn.com/noWgYYVbInRKNqWSdOfyrgNymNKlavgw/assets/static/optimized/rev-04a4d4e/wp-content/uploads/2021/04/Data-entry-2.jpg",
+        "duration": "1 to 2 Years",
+        "eligibility": "After 10th Pass"
+    },
+    {
+        "id": "5",
+        "name": "Graphic Designing",
+        "fee": "",
+        "description": "",
+        "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
+        "duration": "10 months to 1 year",
+        "eligibility": "After 12th Pass"
+    },
+    {
+        "id": "6",
+        "name": "Web Development ",
+        "fee": "",
+        "description": "",
+        "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+        "duration": "1 to 2 Years",
+        "eligibility": "After 12th Pass"
+    }
+]

@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const courses = require('./data/courses.json');
+const { request } = require('express');
 
 
 app.get('/', (req, res) => {
@@ -18,7 +19,9 @@ app.get('/courses', (req, res) => {
 
 
 app.get('/courses/:id', (req, res) => {
-    console.log(req.params.id)
+    const id = req.params.id;
+    const selectedCourse = courses.find(course => course.id == id)
+    res.send(selectedCourse)
 })
 
 app.listen(port, () => {

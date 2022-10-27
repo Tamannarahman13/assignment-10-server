@@ -16,6 +16,11 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
+
+app.get('/courses/:id', (req, res) => {
+    console.log(req.params.id)
+})
+
 app.listen(port, () => {
     console.log('computer course server running on port', port);
 })

@@ -2,8 +2,8 @@
     {
         "id": "1",
         "name": "Basic Computer ",
-        "fee": "",
-        "description": "",
+        "fee": "3000",
+        "description": "The course consists of an introduction to basic vocabulary and terminology related to computer and word processing, Microsoft Word, the Internet, web search and email. Students will also use of different computer language software and programs to practice English.",
         "img": "https://www.coursesxpert.com/wp-content/uploads/2019/08/Basic-Computer-Courses.jpg",
         "duration": "3 Months",
         "eligibility": "After 10th Pass"
@@ -11,8 +11,8 @@
     {
         "id": "2",
         "name": "Web Designing ",
-        "fee": "",
-        "description": "",
+        "fee": "8000",
+        "description": "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs.",
         "img": "https://5.imimg.com/data5/MZ/WK/LZ/SELLER-75185845/web-designing-courses-500x500.jpg",
         "duration": "4 Months to 1 Year",
         "eligibility": "After 12th Pass"
@@ -20,8 +20,8 @@
     {
         "id": "3",
         "name": "Digital Marketing ",
-        "fee": "",
-        "description": "",
+        "fee": "8500",
+        "description": "Students in this course will explore the development, production and implementation of digital-marketing delivery methods including, but not limited to, email marketing, web-based marketing, search-engine optimization (SEO), online advertising, and social media.",
         "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
         "duration": "1 to 12 Months",
         "eligibility": "After Graduation"
@@ -29,8 +29,8 @@
     {
         "id": "4",
         "name": "Data Entry",
-        "fee": "",
-        "description": "",
+        "fee": "5000",
+        "description": "The data entry course helps the students to acquire all the necessary technical skills required for the data entry through MS Office software.The data entry course helps the students to acquire all the necessary technical skills required for the data entry through MS Office software.",
         "img": "https://cdn-dhnfj.nitrocdn.com/noWgYYVbInRKNqWSdOfyrgNymNKlavgw/assets/static/optimized/rev-04a4d4e/wp-content/uploads/2021/04/Data-entry-2.jpg",
         "duration": "1 to 2 Years",
         "eligibility": "After 10th Pass"
@@ -38,8 +38,8 @@
     {
         "id": "5",
         "name": "Graphic Designing",
-        "fee": "",
-        "description": "",
+        "fee": "8000",
+        "description": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
         "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
         "duration": "10 months to 1 year",
         "eligibility": "After 12th Pass"
@@ -47,8 +47,8 @@
     {
         "id": "6",
         "name": "Web Development ",
-        "fee": "",
-        "description": "",
+        "fee": "10000",
+        "description": "Students learn how to critically evaluate website quality, learn how to create and maintain quality web pages, learn about web design standards and why they're important, and learn to create and manipulate images.",
         "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
         "duration": "1 to 2 Years",
         "eligibility": "After 12th Pass"
